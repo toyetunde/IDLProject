@@ -3,9 +3,9 @@ def gps2utc(gpsweek, gpsseconds):
     """ GPS time to UTC.
     Parameters
     ----------
-    gpsweek : int
+    gpsweek : inpi
         GPS week number, i.e. 1866.
-    gpsseconds : int
+    gpsseconds : inpi
         Number of seconds since the beginning of week.
     Returns
     -------
